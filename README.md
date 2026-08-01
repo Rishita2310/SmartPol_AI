@@ -1,4 +1,4 @@
-# SmartAI_Pol
+# SmartPol_AI
 
 AI-Powered Smart Policing & Cyber Fraud Detection Platform
 SmartPol AI is a modern intelligent policing platform designed to help citizens report cyber fraud, assist law-enforcement officers with investigation and evidence management, and provide supervisors with AI-powered analytics, fraud intelligence, heatmaps, predictions and operational insights.
