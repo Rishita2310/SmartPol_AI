@@ -1,11 +1,13 @@
 # SmartPol_AI
 
 AI-Powered Smart Policing & Cyber Fraud Detection Platform
+
 SmartPol AI is a modern intelligent policing platform designed to help citizens report cyber fraud, assist law-enforcement officers with investigation and evidence management, and provide supervisors with AI-powered analytics, fraud intelligence, heatmaps, predictions and operational insights.
 
 The platform combines AI, Machine Learning, cyber-fraud analysis, secure complaint management, evidence handling, geospatial intelligence and role-based access control into a unified smart-policing ecosystem.
 
 🚨 The Problem
+
 Cyber fraud is increasing rapidly, while victims often face:
 
 Delayed complaint processing
@@ -18,6 +20,7 @@ Poor coordination between citizens and law-enforcement agencies
 Traditional systems often store complaints but do not provide intelligent analysis or predictive capabilities.
 
 💡 Our Solution
+
 SmartPol AI provides an integrated platform that enables:
 
 Citizens to report cyber fraud easily
@@ -32,8 +35,11 @@ Predictive crime analytics
 Suspicious account and suspect analysis
 AI-powered investigation assistance
 Administrative system management
+
 🎯 Core Features
+
 👤 Citizen Portal
+
 Citizens can:
 
 Create an account
@@ -63,7 +69,9 @@ Online Shopping Fraud
 Loan Scam
 Sextortion and Blackmail
 Other Cyber Crimes
+
 👮 Officer Portal
+
 Police officers can:
 
 View assigned complaints
@@ -76,7 +84,9 @@ Manage missions
 Analyze suspicious activities
 Access complaint details
 Update case status
+
 📊 Supervisor Intelligence Dashboard
+
 Supervisors can access:
 
 Crime analytics
@@ -89,7 +99,9 @@ Mule account detection
 Suspect intelligence
 Data fusion dashboards
 Operational war-room monitoring
+
 🕵️ AI Agent Intelligence System
+
 SmartPol AI includes an intelligent investigation assistant designed to support law-enforcement operations.
 
 The AI assistant can help with:
@@ -105,6 +117,7 @@ Cyber-fraud intelligence
 AI recommendations are designed to assist authorized investigators and should not replace official human decision-making.
 
 🧠 Machine Learning & AI
+
 The platform is designed to support machine-learning-powered cyber-fraud detection.
 
 Potential ML Capabilities
@@ -132,6 +145,7 @@ Risk Score
 Priority Recommendation
           ↓
 Investigation Dashboard#
+
 🌐 Live Demo
 
 The SmartPol AI platform is deployed on a live server.
